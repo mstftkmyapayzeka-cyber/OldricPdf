@@ -2226,3 +2226,6 @@ animation effects	Off	關
 	This document is trying to open a local file:	此文件正嘗試開啟本機檔案：
 	Move tag earlier	將標記前移
 	Move tag later	將標記後移
+	Edit in WordCraft	在 WordCraft 中編輯
+	Opened in WordCraft: {path}	已在 WordCraft 中開啟：{path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	無法啟動 WordCraft（{e}）。Word 文件位於 {path}

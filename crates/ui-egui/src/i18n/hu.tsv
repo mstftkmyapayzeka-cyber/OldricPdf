@@ -2351,3 +2351,6 @@ animation effects	Off	Ki
 	This document is trying to open a local file:	Ez a dokumentum egy helyi fájlt próbál megnyitni:
 	Move tag earlier	Címke korábbra helyezése
 	Move tag later	Címke későbbre helyezése
+	Edit in WordCraft	Szerkesztés a WordCraftban
+	Opened in WordCraft: {path}	Megnyitva a WordCraftban: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	A WordCraft nem indítható el ({e}). A Word-dokumentum itt található: {path}

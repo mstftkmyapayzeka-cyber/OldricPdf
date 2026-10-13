@@ -2373,3 +2373,6 @@ animation effects	Off	معطّلة
 	This document is trying to open a local file:	يحاول هذا المستند فتح ملف محلي:
 	Move tag earlier	نقل العلامة للأعلى
 	Move tag later	نقل العلامة للأسفل
+	Edit in WordCraft	التحرير في WordCraft
+	Opened in WordCraft: {path}	فُتح في WordCraft: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	تعذّر تشغيل WordCraft ({e}). مستند Word موجود في {path}

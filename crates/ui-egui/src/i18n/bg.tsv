@@ -2315,3 +2315,6 @@ animation effects	Off	Изключени
 	This document is trying to open a local file:	Този документ се опитва да отвори локален файл:
 	Move tag earlier	Преместване на етикета по-рано
 	Move tag later	Преместване на етикета по-късно
+	Edit in WordCraft	Редактиране в WordCraft
+	Opened in WordCraft: {path}	Отворено в WordCraft: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	WordCraft не можа да се стартира ({e}). Документът на Word е в {path}
