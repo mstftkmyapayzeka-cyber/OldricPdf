@@ -519,6 +519,11 @@ impl PdfCraftApp {
             "export.pptx" => self.export_office_dialog(pdfcraft_engine::compare::OfficeFormat::Pptx),
             "export.html" => self.export_office_dialog(pdfcraft_engine::compare::OfficeFormat::Html),
             "export.rtf" => self.export_office_dialog(pdfcraft_engine::compare::OfficeFormat::Rtf),
+            #[cfg(not(target_arch = "wasm32"))]
+            "export.wordcraft" => self.edit_in_wordcraft(),
+            // The browser can't start another app: hand over the Word document instead.
+            #[cfg(target_arch = "wasm32")]
+            "export.wordcraft" => self.export_office_dialog(pdfcraft_engine::compare::OfficeFormat::Docx),
             "form.prepare" => {
                 self.left = crate::LeftPanel::Tool("form");
                 self.reveal_tools();

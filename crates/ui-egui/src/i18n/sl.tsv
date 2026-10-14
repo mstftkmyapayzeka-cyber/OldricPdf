@@ -2357,3 +2357,6 @@ animation effects	Off	Izklopljeni
 	This document is trying to open a local file:	Ta dokument poskuša odpreti lokalno datoteko:
 	Move tag earlier	Premakni oznako prej
 	Move tag later	Premakni oznako pozneje
+	Edit in WordCraft	Uredi v WordCraftu
+	Opened in WordCraft: {path}	Odprto v WordCraftu: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	WordCrafta ni bilo mogoče zagnati ({e}). Dokument Word je tukaj: {path}

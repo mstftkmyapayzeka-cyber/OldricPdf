@@ -2366,3 +2366,6 @@ animation effects	Off	Desativados
 	This document is trying to open a local file:	Este documento está tentando abrir um arquivo local:
 	Move tag earlier	Mover tag para antes
 	Move tag later	Mover tag para depois
+	Edit in WordCraft	Editar no WordCraft
+	Opened in WordCraft: {path}	Aberto no WordCraft: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	Não foi possível iniciar o WordCraft ({e}). O documento do Word está em {path}

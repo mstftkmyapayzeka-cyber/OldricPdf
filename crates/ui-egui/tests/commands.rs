@@ -63,6 +63,8 @@ const PICKERS: &[&str] = &[
     "export.pptx",
     "export.html",
     "export.rtf",
+    // Starts WordCraft: never from a test.
+    "export.wordcraft",
     "measure.export",
 ];
 

@@ -2353,3 +2353,6 @@ animation effects	Off	Aus
 	This document is trying to open a local file:	Dieses Dokument versucht, eine lokale Datei zu öffnen:
 	Move tag earlier	Tag früher verschieben
 	Move tag later	Tag später verschieben
+	Edit in WordCraft	In WordCraft bearbeiten
+	Opened in WordCraft: {path}	In WordCraft geöffnet: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	WordCraft konnte nicht gestartet werden ({e}). Das Word-Dokument liegt unter {path}

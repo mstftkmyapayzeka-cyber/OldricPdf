@@ -2265,3 +2265,6 @@ animation effects	Off	Выкл
 	This document is trying to open a local file:	Этот документ пытается открыть локальный файл:
 	Move tag earlier	Переместить тег раньше
 	Move tag later	Переместить тег позже
+	Edit in WordCraft	Редактировать в WordCraft
+	Opened in WordCraft: {path}	Открыто в WordCraft: {path}
+	WordCraft couldn't be started ({e}). The Word document is at {path}	Не удалось запустить WordCraft ({e}). Документ Word находится здесь: {path}
